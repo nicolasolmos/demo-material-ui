@@ -1,0 +1,13 @@
+{
+    "deliveryAddressForm.title": "Datos de Envío",
+    "deliveryAddressForm.streetAddress.input.placeholder": "Calle",
+    "deliveryAddressForm.houseNumber.input.placeholder": "Altura",
+    "deliveryAddressForm.crossingStreetOne.input.placeholder": "Entrecalle 1",
+    "deliveryAddressForm.crossingStreetTwo.input.placeholder": "Entrecalle 2",
+    "deliveryAddressForm.doesNotHaveDoorbell.checkbox.label": "No tiene timbre",
+    "deliveryAddressForm.isOfficeOrBuilding.checkbox.label": "Es una oficina o edificio",
+    "deliveryAddressForm.floor.input.placeholder": "Piso",
+    "deliveryAddressForm.appartment.input.placeholder": "Departamento",
+    "deliveryAddressForm.towerBuildingUnit.input.placeholder": "Torre",
+    "deliveryAddressForm.buildingUnit.input.placeholder": "Unidad"
+}

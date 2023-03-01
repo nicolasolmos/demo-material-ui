@@ -1,0 +1,8 @@
+.order-page {
+    display: flex;
+    flex-direction: column;
+    max-width: 75%;
+    margin: 3rem auto;
+    background-color: white;
+    padding: 3rem;
+}

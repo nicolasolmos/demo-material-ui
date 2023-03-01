@@ -1,0 +1,13 @@
+{
+    "deliveryAddressForm.title": "Delivery Information",
+    "deliveryAddressForm.streetAddress.input.placeholder": "Street Address",
+    "deliveryAddressForm.houseNumber.input.placeholder": "House Number",
+    "deliveryAddressForm.crossingStreetOne.input.placeholder": "Crossing Street One",
+    "deliveryAddressForm.crossingStreetTwo.input.placeholder": "Crossing Street Two",
+    "deliveryAddressForm.doesNotHaveDoorbell.checkbox.label": "It does not have a door bell",
+    "deliveryAddressForm.isOfficeOrBuilding.checkbox.label": "It's an office or building",
+    "deliveryAddressForm.floor.input.placeholder": "Floor",
+    "deliveryAddressForm.appartment.input.placeholder": "Appartment",
+    "deliveryAddressForm.towerBuildingUnit.input.placeholder": "Tower Building Unit",
+    "deliveryAddressForm.buildingUnit.input.placeholder": "Building Unit"
+}
